@@ -1,8 +1,8 @@
-# Center for the Humanities
+# Institute for Public Affairs
 
 [![Build Status][travis-img]][travis]
 
-Center for the Humanities is statically generated with [Jekyll](https://jekyllrb.com) and hosted by [The College of Liberal Arts](https://liberalarts.temple.edu) at [Temple University](https://temple.edu).
+Institute for Public Affairs is statically generated with [Jekyll](https://jekyllrb.com) and hosted by [The College of Liberal Arts](https://liberalarts.temple.edu) at [Temple University](https://temple.edu).
 
 ## Content Structure
 
@@ -21,10 +21,10 @@ If you discover typographic errors, bugs, or have problems navigating this site 
 [Pull requests][pr] are also welcome if you would like to contribute or edit page content. [Prose.io][prose] is a quick and convenient way to edit content in [Markdown][md].
 
 
-[travis]: https://travis-ci.org/TULiberalArts/Center-for-the-Humanities
-[travis-img]: https://travis-ci.org/TULiberalArts/Center-for-the-Humanities.svg?branch=master
+[travis]: https://travis-ci.org/TULiberalArts/Institute-for-Public-Affairs
+[travis-img]: https://travis-ci.org/TULiberalArts/Institute-for-Public-Affairs.svg?branch=master
 [jekyll]: https://https://jekyllrb.com
-[issue]: https://github.com/TULiberalArts/Center-for-the-Humanities/issues
+[issue]: https://github.com/TULiberalArts/Institute-for-Public-Affairs/issues
 [pr]: https://help.github.com/articles/about-pull-requests/
-[prose]: https://prose.io/#TULiberalArts/Center-for-the-Humanities
+[prose]: https://prose.io/#TULiberalArts/Institute-for-Public-Affairs
 [md]: http://whatismarkdown.com/
