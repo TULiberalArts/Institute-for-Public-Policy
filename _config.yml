@@ -8,7 +8,7 @@ baseurl: /institute-for-public-affairs
 # Short tagline for tweets (<100 characters)
 tagline: This is our life's work
 # Longer descriptions for link previews (<250 characters)
-description: 'Example of what the TU Theme will look like and all the wiz-bang things it can do. This Static Site was generated with Jekyll.'
+description: 'Temple University’s Institute for Public Affairs conducts, supports, and disseminates interdisciplinary research to inform and improve public policy, focusing particularly on Philadelphia, the greater metropolitan area, and the Commonwealth of Pennsylvania.'
 # List of related keywords for search engines
 keywords: highered, college, university, philadelphia, Temple
 
@@ -18,7 +18,7 @@ address:
   room: 840
   street: 1114 Polett Walk
   city: Philadelphia, PA 19122
-  email: ipa@temple.edu
+  email: <a href="mailto:ipa@temple.edu">ipa@temple.edu</a>
   phone: 215-204-1600
 
 # Social Media
