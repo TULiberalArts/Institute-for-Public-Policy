@@ -1,16 +1,15 @@
 ---
 title: Home
-meta-description: 100 or so words
-meta-keywords: 3 or 4 unique for this page
+description: >-
+keywords: ''
 permalink: /
 layout: home
 feature: false
 feature-title: null
-feature-body: null
 feature-image: null
+feature-body: null
 published: true
 ---
-
 Institute for Public Affairs...
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
