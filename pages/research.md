@@ -1,10 +1,11 @@
 ---
 title: Research
-meta-keywords: 3 or 4 unique for this page
-permalink: "/research/"
+permalink: /research/
 layout: page
+keywords: ''
+description: >-
+published: true
 ---
-
 
 ## Check out this research program!
 
