@@ -5,6 +5,8 @@ title: Institute for Public Affairs
 baseurl: /institute-for-public-affairs
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
+# url spits sitemap
+url: https://www.cla.temple.edu/institute-for-public-affairs
 
 
 # Program Information
