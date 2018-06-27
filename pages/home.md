@@ -15,7 +15,7 @@ feature-title: >-
 feature-image: media/PA-Capital-Semester-students-with-Gov-Wolf-Slide-Show.png
 feature-body: >-
 ---
-![CSCS]({{site.baseurl}}/media/philly_skyline120.jpeg){:.img-right}
+![Philly Skyline]({{site.baseurl}}/media/philly_skyline120.jpeg){:.img-right}
 Temple University’s Institute for Public Affairs conducts, supports, and disseminates interdisciplinary research to inform and improve public policy, focusing particularly on Philadelphia, the greater metropolitan area, and the Commonwealth of Pennsylvania. 
 
 ## Mission
