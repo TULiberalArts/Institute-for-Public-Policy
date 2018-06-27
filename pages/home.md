@@ -1,38 +1,48 @@
 ---
-title: Home
-description: >-
-keywords: ''
+# global predefined variables
+layout: tla_home
 permalink: /
-layout: home
-feature: false
-feature-title: null
-feature-image: null
-feature-body: null
 published: true
+# meta-data variables
+title: Home
+description: >
+keywords: ''
+# custom variables
+sidebar: false
+feature: true
+feature-title: >- 
+  Institute for Public Policy
+feature-image: media/PA-Capital-Semester-students-with-Gov-Wolf-Slide-Show.png
+feature-body: >-
 ---
-Institute for Public Affairs...
+![CSCS]({{site.baseurl}}/media/philly_skyline120.jpeg){:.img-right}
+Temple University’s Institute for Public Affairs conducts, supports, and disseminates interdisciplinary research to inform and improve public policy, focusing particularly on Philadelphia, the greater metropolitan area, and the Commonwealth of Pennsylvania. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Mission
+Temple University’s Institute for Public Affairs conducts, supports, and disseminates interdisciplinary research to inform and improve public policy, focusing particularly on Philadelphia, the greater metropolitan area, and the Commonwealth of Pennsylvania.
+
+## Objectives
+IPA research targets important social, economic, and political problems, and public policies that address them.
+IPA seeks to foster collaboration and intellectual exchange across disciplines, supporting scholars from all of Temple’s seventeen schools and colleges.
+
+IPA aims to forge connections among students, scholars, policymakers, and citizens, to encourage research informed by the concerns of those who decide public policy and to facilitate public policies informed by research.
+
+___
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
-    title=" " 
+    title="The Pennsylvania Capital Semester" 
     content=" " 
     image="" 
-    button-link=" " 
+    button-link="" 
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html 
-      title=" " 
+      title="The Washington Semester" 
       content=" " 
       image="" 
-      button-link=" " 
+      button-link="Center on Regional politics" 
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
