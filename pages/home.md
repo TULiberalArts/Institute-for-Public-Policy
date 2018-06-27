@@ -50,7 +50,7 @@ ___
         title=" " 
         content=" " 
         image="" 
-        button-link=" " 
+        button-link="http://www.cla.temple.edu/corp/" 
         button-text="Learn More" %}
       </div>
 </div>
