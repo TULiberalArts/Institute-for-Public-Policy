@@ -42,12 +42,12 @@ ___
       title="The Washington Semester" 
       content=" " 
       image="" 
-      button-link="Center on Regional politics" 
+      button-link="" 
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
-        title=" " 
+        title="Center on Regional Politics" 
         content=" " 
         image="" 
         button-link="http://www.cla.temple.edu/corp/" 
