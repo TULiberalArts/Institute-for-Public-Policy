@@ -13,7 +13,7 @@ sidebar_content: sidebars/pa-capital-semester.html
 ---
 ## The Pennsylvania Capital Semester
 ![PA House Chamber]({{site.baseurl}}/media/PAHouseChamber_001.jpeg){:.img-right}
-Started in fall 2009, The Institute for Public Affairs sponsors an internship semester each fall and spring semester in Harrisburg in association with Temple’s [Harrisburg campus](http://www.temple.edu/harrisburg/). Students have the opportunity to explore government affairs, policymaking and implementation first-hand while being full-time students and staying on track to graduation. Applications are being accepted on a rolling basis. We encourage students from schools other than Temple University to apply as well. Watch a video on the program below.
+Started in fall 2009, The Institute for Public Policy sponsors an internship semester each fall and spring semester in Harrisburg in association with Temple’s [Harrisburg campus](http://www.temple.edu/harrisburg/). Students have the opportunity to explore government affairs, policymaking and implementation first-hand while being full-time students and staying on track to graduation. Applications are being accepted on a rolling basis. We encourage students from schools other than Temple University to apply as well. Watch a video on the program below.
 <div align="center"><iframe width="620" height="349" src="https://www.youtube.com/embed/HWezXc_d0tA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 ___
@@ -36,7 +36,7 @@ ___
 All interested students must complete an application, including a resume, transcript, writing sample and two faculty recommendations (form available here). **(this content needs to be migrated into Google docs and share the link with me so I can put into the site)**
 - Students are encouraged to submit any piece of writing 3-10 pages in length that demonstrates their abilities. It is also highly recommended for students to polish their resumes with aid of [Temple’s Career Center](http://www.temple.edu/studentaffairs/careercenter/), or their own institution’s career center.
 - Applications are available [here](https://form.jotform.com/CVE13/the-pennsylvania-capital-semester-a		
-). Please email to Michelle J. Atherton, Associate Director, Institute for Public Affairs, at [mjather@temple.edu](mailto:mjather@temple.edu).
+). Please email to Michelle J. Atherton, Associate Director, Institute for Public Policy, at [mjather@temple.edu](mailto:mjather@temple.edu).
 - **Fall 2018 applications are due by May 19, but possible fellowship deadlines require earlier submissions. Applications are always being accepted.** Please submit the application as early as possible. It is best to apply early, as internship placements are competitive. **The competitive deadline for a possible [fellowship from the state](http://www.pahousefellowship.us/) is April 20 for fall enrollment, and September 25 for spring.**
 - Non-Temple students must also submit an approval form from their home institution to validate eligibility, and to assure proper credit transfer. That form is available here. **(this content needs to be migrated into Google docs and share the link with me so I can put into the site)**
 - Temple tuition rates for full-time students per semester currently stand at $7,884 for in-state students, and $13,764 for out-of-state. On a per credit basis, tuition is $657 for in-state students, and $1,147 for out-of-state. These rates are for the 2017-18 school year.
