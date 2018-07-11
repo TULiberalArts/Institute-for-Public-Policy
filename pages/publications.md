@@ -11,7 +11,7 @@ keywords: 'public policy, research, publications'
 sidebar: false
 ---
 ## Publications
-_**[Commonwealth: A Journal of Pennsylvania Politics and Policy archives](http://sites.temple.edu/commonwealth/) are hosted by the Institute for Public Affairs.
+_**[Commonwealth: A Journal of Pennsylvania Politics and Policy archives](http://sites.temple.edu/commonwealth/) are hosted by the Institute for Public Affairs**_.
 
 - **Center on Regional Politics Research at a Glance**
 Explaining School Fund Balances – Are PA Schools Holding Too Much in Reserve? **(this content needs to be migrated into Google docs and share the link with me so I can put into the site)**  
