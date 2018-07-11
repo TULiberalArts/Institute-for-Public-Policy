@@ -105,6 +105,8 @@ The Temple Papers on the Pennsylvania General Assembly Volume IV: A Discussion o
 **V. Megan Mullin**</br>
 The Temple Papers on the Pennsylvania General Assembly Volume V: Literature Review: Findings from Academic Research on  State Government Institutions and Reforms **(this content needs to be migrated into Google docs and share the link with me so I can put into the site)**</br>
 
+___
+
 **Joseph P. McLaughlin**</br>
 Presentation: The Pennsylvania General Assembly Before and After the 1968 Legislative Modernization Commission: A Brief History **(this content needs to be migrated into Google docs and share the link with me so I can put into the site)**</br>
 
