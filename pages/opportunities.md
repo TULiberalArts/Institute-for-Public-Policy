@@ -11,8 +11,8 @@ keywords: ''
 sidebar: false
 ---
 ## Internships
-- [The Pennsylvania Capital Semester]()
-- [The Washington Semester]()
+- The Pennsylvania Capital Semester
+- The Washington Semester
 - [Office of State Rep Brian Sims- Philadelphia Office](https://liberalarts.temple.edu/sites/liberalarts/files/Fall-2017-Internship-Description.pdf)
 - [White House Internship Program](https://www.whitehouse.gov/participate/internships)
 - [Philadelphia City Council Policy Fellowship](http://www.cla.temple.edu/ipa/files/2017/09/Application-City-Council-Graduate-Policy-Fellowship-003.pdf)
