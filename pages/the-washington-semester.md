@@ -15,8 +15,9 @@ sidebar: false
 The Washington Semester allows Temple students to gain valuable career experience in the nation’s capital, while remaining full-time students. If accepted into the program, students register for three courses in the College of Liberal Arts (two for 3 credits each, and one for 9 credits) for a 15-credit semester in the fall and spring. (Summer programs are also available for 12 credits.) The Institute for Public Policy serves as liaison to The Washington Center (TWC), a well-established and well-regarded internship semester program in Washington, DC through which Temple students receive internships and take classes.
 
 _What’s it like to be a student in the program? Watch [TWC’s interviews with alumni](https://www.youtube.com/watch?v=tmkbVCBiYo8)._
-
-## The Washington Center
+_**Profiles of The Washington Semester Alumni**_ (have Col migrate then move to alumni include page)
+(_**The Washington Semester in the Temple News**_)[https://news.temple.edu/news/2014-05-02/temple%E2%80%99s-washington-semester-begins?utm_source=templetoday&utm_medium=email&utm_campaign=Washington_Semester
+## The Washington Center]
 
 TWC is a nonprofit, nonpartisan educational organization in Washington, DC which provides integrated academic and work experience to prepare college students and professionals for careers in politics, policy or related professions. The program runs year-round, provides housing and places students in internships that suit their interests. TWC also offers a wide array of courses so undergraduate students are able to maintain full-time status and remain on track to graduation. The program includes training in leadership, professional skills, a lecture series and special events throughout the semester. The semester’s program includes an internship for 9 credits, an academic course chosen from an extensive catalog for 3 credits, and a leadership forum, the LEAD Colloquium, and the completion of a portfolio for three credits. All are required components for each participant in Temple’s TWC-conducted program.
 
