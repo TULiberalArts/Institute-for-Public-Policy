@@ -28,7 +28,7 @@ ___
 - Internships might involve outside activities, such as fundraisers, press conferences, receptions and other special events.
 - Take a look at the essential [Guide to Interning in Harrisburg] **(this content needs to be migrated into Google docs and share the link with me so I can put into the site)** to get an idea of life as an intern in the program.
 - Enrollment in the program includes a $1500 award to Temple students to be received after the first three weeks of the internship.
-- Read more about past students in the program. **(this content needs to be migrated into Google docs and share the link with me so I can put into the site)**
+- Read more about past students in the program. **(link to alumni page)**
 
 ## Requirements and Application
 - Students must be juniors or seniors by the beginning of the internship semester and possess a minimum 3.0 GPA.
