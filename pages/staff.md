@@ -1,15 +1,12 @@
 ---
 # global predefined variables
 layout: tla_faculty
-permalink: /people/
+permalink: /staff/
 published: true
 # meta-data variables
-title: People
+title: Staff
 description: >-
 keywords: 'public affairs, staff'
 # custom variables
 sidebar: false
 ---
-
-
-
