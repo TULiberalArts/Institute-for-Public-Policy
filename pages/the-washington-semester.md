@@ -38,10 +38,10 @@ Each program contains approximately 25 to 75 students and is overseen by profess
 - [Temple Student Washington Semester Placements](https://docs.google.com/document/d/1zCGhohW4YhPtFEBj9a-mzJj7UPGvNRXYu3Ou5bzSupg/edit?usp=sharing)
 
 ## Academics
-All students are required to enroll in at least one academic course from a choice of around 50.  Usually, courses meet one evening each week for three hours and are taught by TWC’s highly qualified adjunct faculty, often from surrounding universities like American or George Washington. Students select several courses, and are placed in one. Usually, students are able to get their top choice for course selection. Courses cover international affairs and foreign policy; anthropology, the arts and humanities; communications; American politics; law and criminal justice; homeland or national security; leadership; business; research; and science policy. 
-**Course Specifics**
-Students in The Washington Semester choose one academic course each term as part of the program. Courses can be pre-approved for fulfilling Temple requirements, but this should be done so upon acceptance to the program.
-**Frequently offered courses include:**
+All students are required to enroll in at least one academic course from a choice of around 50.  Usually, courses meet one evening each week for three hours and are taught by TWC’s highly qualified adjunct faculty, often from surrounding universities like American or George Washington. Students select several courses, and are placed in one. Usually, students are able to get their top choice for course selection. Courses cover international affairs and foreign policy; anthropology, the arts and humanities; communications; American politics; law and criminal justice; homeland or national security; leadership; business; research; and science policy.<br>
+**Course Specifics**<br>
+Students in The Washington Semester choose one academic course each term as part of the program. Courses can be pre-approved for fulfilling Temple requirements, but this should be done so upon acceptance to the program.<br>
+**Frequently offered courses include:**<br>
 American Politics and Public Policy:<br>
 Campaigning for a Cause: How Advocacy Groups Change the World<br>
 Government and Business in the New Economic and Political Reality<br>
