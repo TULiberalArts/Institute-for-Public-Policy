@@ -34,12 +34,36 @@ When applying, students indicate their interest in one of TWC’s programs:
 
 Each program contains approximately 25 to 75 students and is overseen by professional program advisors who counsel students, and work with the students to secure internships and evaluate them. Internships are 4 days per week. Temple awards 9 credits for the internship. TWC maintains contact with over 1,000 potential placement sites. Students decide their placement from an initial group of about 7 or 8 sites. A few weeks before beginning the program, students find out their placement.
 
-- Internship Site Examples (**this content needs to be migrated into Google docs and share the link with me so I can put into the site**)
-- Temple Student Washington Semester Placements (**this content needs to be migrated into Google docs and share the link with me so I can put into the site**)
+- [Internship Site Examples](https://www.twc.edu/sites/default/files/resources/FA17_SamplePlacements.pdf)
+- [Temple Student Washington Semester Placements](https://docs.google.com/document/d/1zCGhohW4YhPtFEBj9a-mzJj7UPGvNRXYu3Ou5bzSupg/edit?usp=sharing)
 
 ## Academics
 All students are required to enroll in at least one academic course from a choice of around 50.  Usually, courses meet one evening each week for three hours and are taught by TWC’s highly qualified adjunct faculty, often from surrounding universities like American or George Washington. Students select several courses, and are placed in one. Usually, students are able to get their top choice for course selection. Courses cover international affairs and foreign policy; anthropology, the arts and humanities; communications; American politics; law and criminal justice; homeland or national security; leadership; business; research; and science policy. 
-- Read more about the academic course. (**this content needs to be migrated into Google docs and share the link with me so I can put into the site**)
+- **Course Specifics**
+- Students in The Washington Semester choose one academic course each term as part of the program. Courses can be pre-approved for fulfilling Temple requirements, but this should be done so upon acceptance to the program.
+- **Frequently offered courses include:**
+American Politics and Public Policy:<br>
+Campaigning for a Cause: How Advocacy Groups Change the World<br>
+Government and Business in the New Economic and Political Reality<br>
+
+Business, Management, and Public Administration:<br>
+International Business Case Studies<br>
+From Ideas to Action: The Anatomy of Entrepreneurship<br>
+
+Communications:<br>
+Media and the Movies<br>
+Mass Media and American Politics<br>
+
+International Affairs and Foreign Policy:<br>
+U.S. Foreign Policy<br>
+Rising China: U.S.-China Relations in the 20th and 21st Centuries<br>
+How Washington Engages the Arab Middle East<br>
+
+Law and Criminal Justice:<br>
+Philosophy of Law, the Supreme Court and the U.S. Constitutional Tradition<br>
+Forensic Psychology<br>
+Introduction to Criminal Law and Criminal Procedure<br>
+
 
 ## The LEAD Colloquium
 Every Friday, students meet as part of the LEAD Colloquium to hear guest speakers, including such past guests as Secretary Madeleine Albright and Bob Schieffer (of Face the Nation), attend public policy dialogues, work on civic engagement projects or other activities, and complete an internship portfolio. The portfolio includes a week by week analysis of the internship program and results in a final project on the internship experience as a whole completed by the student. You can read extended information on [TWC’s LEAD component](http://www.twc.edu/internships/washington-dc-programs/internship-experience/LEAD-colloquium). This portion of the program is three credits.
