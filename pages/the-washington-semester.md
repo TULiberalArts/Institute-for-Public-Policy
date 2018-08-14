@@ -62,7 +62,7 @@ Most internships are unpaid, although some internships in the federal sector pro
 
 Students will pay Temple tuition and fees for the 15 credit semester and will pay for their own housing. TWC will award PA resident students living in its facilities a $1,250 scholarship, reducing semester room charges to $ 4,740 for each student in the fall and spring terms.
 
-In-state students benefit from a grant from the Commonwealth of Pennsylvania to TWC to reduce the program fee. Total student costs include Temple tuition; Temple pays TWC their program fee. All students accepted into the Washington Semester program receive a **$2500 scholarship** from the Institute for Public Affairs. Students should be mindful that full costs of the program include Temple tuition, housing in D.C., and food plus expenses. We encourage interested students to meet with us to discuss costs and scholarships.
+In-state students benefit from a grant from the Commonwealth of Pennsylvania to TWC to reduce the program fee. Total student costs include Temple tuition; Temple pays TWC their program fee. All students accepted into the Washington Semester program receive a **$2500 scholarship** from the Institute for Public Policy. Students should be mindful that full costs of the program include Temple tuition, housing in D.C., and food plus expenses. We encourage interested students to meet with us to discuss costs and scholarships.
 
 _Interested students should note **summer programs** are very popular, and more often than not, funding from the Commonwealth of PA to offset TWC program fees is limited. Students applying for the summer term should do so **as soon as possible** in order to receive this funding._
 
@@ -94,7 +94,7 @@ Compose an original essay of approximately 500 words to be used as a writing sam
 All applicants must have completed PS 1101, or a course judged equivalent. After applying to IPA, students are interviewed. Acceptance is contingent upon approval of the designated campus liaison, see contact information below.
 
 Michelle J. Atherton</br>
-Associate Director, Institute for Public Affairs</br>
+Associate Director, Institute for Public Policy</br>
 [215-204-9074](tel:2152049074)</br>
 [mjather@temple.edu](mailto:mjather@temple.edu)</br>
 
