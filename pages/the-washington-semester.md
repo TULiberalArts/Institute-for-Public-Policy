@@ -16,7 +16,7 @@ The Washington Semester allows Temple students to gain valuable career experienc
 
 _What’s it like to be a student in the program? Watch [TWC’s interviews with alumni](https://www.youtube.com/watch?v=tmkbVCBiYo8)._
 - **Profiles of The Washington Semester Alumni (have Col migrate then move to alumni include page)
-- (**The Washington Semester in the Temple News**)[https://news.temple.edu/news/2014-05-02/temple%E2%80%99s-washington-semester-begins?utm_source=templetoday&utm_medium=email&utm_campaign=Washington_Semester]
+- **(The Washington Semester in the Temple News)[https://news.temple.edu/news/2014-05-02/temple%E2%80%99s-washington-semester-begins?utm_source=templetoday&utm_medium=email&utm_campaign=Washington_Semester]**
 
 ## The Washington Center
 TWC is a nonprofit, nonpartisan educational organization in Washington, DC which provides integrated academic and work experience to prepare college students and professionals for careers in politics, policy or related professions. The program runs year-round, provides housing and places students in internships that suit their interests. TWC also offers a wide array of courses so undergraduate students are able to maintain full-time status and remain on track to graduation. The program includes training in leadership, professional skills, a lecture series and special events throughout the semester. The semester’s program includes an internship for 9 credits, an academic course chosen from an extensive catalog for 3 credits, and a leadership forum, the LEAD Colloquium, and the completion of a portfolio for three credits. All are required components for each participant in Temple’s TWC-conducted program.
