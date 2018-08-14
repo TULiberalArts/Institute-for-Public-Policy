@@ -14,7 +14,7 @@ sidebar: false
 _**[Commonwealth: A Journal of Pennsylvania Politics and Policy archives](http://sites.temple.edu/commonwealth/) are hosted by the Institute for Public Policy**_.
 
 - **Center on Regional Politics Research at a Glance**
-Explaining School Fund Balances – Are PA Schools Holding Too Much in Reserve? **(this content needs to be migrated into Google docs and share the link with me so I can put into the site)**  
+[Explaining School Fund Balances – Are PA Schools Holding Too Much in Reserve?](https://drive.google.com/file/d/1T4t_WV5D8bpx3zBsblLybLwoGGmu7WTc/view?usp=sharing) 
 
 - **Center on Regional Politics Policy Brief – David W. Davare**
 Explaining School Fund Balances: Are PA Schools, with a $4.7 Billion Fund Balance, Holding Too Much in Reserve? An Update for FY 2016-17 **(this content needs to be migrated into Google docs and share the link with me so I can put into the site)**
