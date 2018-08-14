@@ -46,13 +46,13 @@ _**[Commonwealth: A Journal of Pennsylvania Politics and Policy archives](http:/
 - [RAND Corporation Research Brief](http://www.rand.org/pubs/research_briefs/RB9872.html)
 
 - **Center on Regional Politics Policy Brief – Dave Davare**
-Explaining School Fund Balances: An Update | (Data on School Fund Balances for PA’s 500 Districts in Excel) **(this content needs to be migrated into Google docs and share the link with me so I can put into the site)**
+[Explaining School Fund Balances: An Update](https://drive.google.com/file/d/1GB0r2SpfHkixIUstWZ3csoN77K_Cp-yI/view?usp=sharing) | [Data on School Fund Balances for PA’s 500 Districts](https://drive.google.com/file/d/1JDA7liQEHm5A0YL10ob2_6Wm6iyQohas/view?usp=sharing)
 
 - **Center on Regional Politics Policy Brief – William Hartman and Timothy Shrom**
 [Forecasting Fiscal Futures of Pennsylvania School Districts: Where Law and Current Policy Are Taking Our Public Schools](https://drive.google.com/file/d/180NkZf5sRO8NkwUTefaR1C949yh9lCKj/view?usp=sharing)
 
 - **Center on Regional Politics Policy Brief** 
-Understanding Measures of Tax Effort and Tax Capacity | (Data on tax effort and capacity in Excel) **(this content needs to be migrated into Google docs and share the link with me so I can put into the site)**
+[Understanding Measures of Tax Effort and Tax Capacity](https://drive.google.com/file/d/1J9HqHG0pyy6xp3RSU2B26aQZDS7ZR12d/view?usp=sharing) | [Data on tax effort and capacity](https://drive.google.com/file/d/11f7P_i-lAjJR415Q-7uS5L6QBnANLF5_/view?usp=sharing)
 
 - **Center on Regional Politics Policy Brief – J. Wesley Leckrone**
 [The Politics of Educational Change: What Can We Learn from the School Consolidation Acts of 1961 and 1963](https://drive.google.com/file/d/1zpqVE9KIDHguMG7mAysKObYtgH6ysc04/view?usp=sharing)
