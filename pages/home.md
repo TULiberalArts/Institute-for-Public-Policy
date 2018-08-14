@@ -19,7 +19,7 @@ feature-body: >-
 Temple University’s Institute for Public Policy conducts, supports, and disseminates interdisciplinary research to inform and improve public policy, focusing particularly on Philadelphia, the greater metropolitan area, and the Commonwealth of Pennsylvania. 
 
 ## Mission
-Temple University’s Institute for Public Policy conducts, supports, and disseminates interdisciplinary research to inform and improve public policy, focusing particularly on Philadelphia, the greater metropolitan area, and the Commonwealth of Pennsylvania.
+Temple University’s Institute for Public Policy (formely the Institute for Public Affairs) conducts, supports, and disseminates interdisciplinary research to inform and improve public policy, focusing particularly on Philadelphia, the greater metropolitan area, and the Commonwealth of Pennsylvania.
 
 ## Objectives
 - IPP research targets important social, economic, and political problems, and public policies that address them.
