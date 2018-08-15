@@ -107,23 +107,23 @@ The Temple Papers on the Pennsylvania General Assembly Volume V: [Literature Rev
 
 ___
 
-**Joseph P. McLaughlin**</br>
-Presentation: [The Pennsylvania General Assembly Before and After the 1968 Legislative Modernization Commission: A Brief History](https://drive.google.com/file/d/1s3gPsN7tRJ3bZHO7zMBJWFwDYr1N3lLO/view?usp=sharing)</br>
+**Joseph P. McLaughlin**<br>
+Presentation: [The Pennsylvania General Assembly Before and After the 1968 Legislative Modernization Commission: A Brief History](https://drive.google.com/file/d/1s3gPsN7tRJ3bZHO7zMBJWFwDYr1N3lLO/view?usp=sharing)<br>
 
-**Joseph P. McLaughlin**</br>
-The Temple Municipal Governance Survey: [How Pennsylvanians View Their Local Governments, including comments on the results of Allegheny County’s Deliberative Democracy Poll](https://drive.google.com/file/d/1w20Qci4hD9fHL_mHrL0PrXxw96rLsFIv/view?usp=sharing)</br>
+**Joseph P. McLaughlin**<br>
+The Temple Municipal Governance Survey: [How Pennsylvanians View Their Local Governments, including comments on the results of Allegheny County’s Deliberative Democracy Poll](https://drive.google.com/file/d/1w20Qci4hD9fHL_mHrL0PrXxw96rLsFIv/view?usp=sharing)<br>
 
-**Joseph P. McLaughlin, Michelle J. Atherton, and Katrina Morrison**</br>
-[Legislative Approaches to Right-Sizing Municipal Services](https://drive.google.com/file/d/10Ehx2o9ydfYBAeIV3T-oMs-alzN_oCPE/view?usp=sharing)</br>
+**Joseph P. McLaughlin, Michelle J. Atherton, and Katrina Morrison**<br>
+[Legislative Approaches to Right-Sizing Municipal Services](https://drive.google.com/file/d/10Ehx2o9ydfYBAeIV3T-oMs-alzN_oCPE/view?usp=sharing)<br>
 
-**Joseph Bafumi, Robert S. Erikson and Christopher Wlezien**</br>
-[Ideological Balancing, Generic Polls and Midterms Congressional Elections](https://drive.google.com/file/d/1AEmZ-27H-A67c_8boRp7a_FnnllI5YoU/view?usp=sharing)</br>
+**Joseph Bafumi, Robert S. Erikson and Christopher Wlezien**<br>
+[Ideological Balancing, Generic Polls and Midterms Congressional Elections](https://drive.google.com/file/d/1AEmZ-27H-A67c_8boRp7a_FnnllI5YoU/view?usp=sharing)<br>
 
-**Robert S. Erikson and Christopher Wlezien**</br>
-[Are Political Markets Really Superior to Polls as Election Predictors?](https://drive.google.com/file/d/1-hgDA3svf1Zxy_j86VI9sZ8gsOPIf5N4/view?usp=sharing)</br>
+**Robert S. Erikson and Christopher Wlezien**<br>
+[Are Political Markets Really Superior to Polls as Election Predictors?](https://drive.google.com/file/d/1-hgDA3svf1Zxy_j86VI9sZ8gsOPIf5N4/view?usp=sharing)<br>
 
-**Joseph Bafumi, Robert S. Erikson and Christopher Wlezien**</br>
-[Forecasting House Seats from Generic Congressional Polls](https://drive.google.com/file/d/1hxRulgiwr5DVA6lY6kZdukK6snT5ZT_T/view?usp=sharing)</br>
+**Joseph Bafumi, Robert S. Erikson and Christopher Wlezien**<br>
+[Forecasting House Seats from Generic Congressional Polls](https://drive.google.com/file/d/1hxRulgiwr5DVA6lY6kZdukK6snT5ZT_T/view?usp=sharing)<br>
 
-**David Elesh**</br>
-[Is City Population Growth Always Good and Loss Bad?](https://drive.google.com/file/d/1-pSaZUKi4CrsiAyyVzx-zS40g9bohoh7/view?usp=sharing)</br>
+**David Elesh**<br>
+[Is City Population Growth Always Good and Loss Bad?](https://drive.google.com/file/d/1-pSaZUKi4CrsiAyyVzx-zS40g9bohoh7/view?usp=sharing)<br>
