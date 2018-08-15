@@ -12,7 +12,7 @@ sidebar: true
 sidebar_content: sidebars/pa-capital-semester.html
 ---
 ## The Pennsylvania Capital Semester
-![PA House Chamber]({{site.baseurl}}/media/resized PAHouseChamber_001.jpg{:.img-right}
+![PA House Chamber]({{site.baseurl}}/media/resized PAHouseChamber_001.jpg{:.img-right} 
 Started in fall 2009, The Institute for Public Policy sponsors an internship semester each fall and spring semester in Harrisburg in association with Temple’s [Harrisburg campus](http://www.temple.edu/harrisburg/). Students have the opportunity to explore government affairs, policymaking and implementation first-hand while being full-time students and staying on track to graduation. Applications are being accepted on a rolling basis. We encourage students from schools other than Temple University to apply as well. Watch a video on the program below.
 
 ___
