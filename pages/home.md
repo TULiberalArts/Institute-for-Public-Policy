@@ -8,15 +8,16 @@ title: Home
 description: >
 keywords: ''
 # custom variables
+promotion-table: true
 sidebar: false
 feature: true
-feature-title: >- 
+feature-title: >-
   Institute for Public Policy
 feature-image: media/PA-Capital-Semester-students-with-Gov-Wolf-Slide-Show.png
 feature-body: >-
 ---
 ![Philly Skyline]({{site.baseurl}}/media/philly_skyline120.jpeg){:.img-right}
-Temple University’s Institute for Public Policy conducts, supports, and disseminates interdisciplinary research to inform and improve public policy, focusing particularly on Philadelphia, the greater metropolitan area, and the Commonwealth of Pennsylvania. 
+Temple University’s Institute for Public Policy conducts, supports, and disseminates interdisciplinary research to inform and improve public policy, focusing particularly on Philadelphia, the greater metropolitan area, and the Commonwealth of Pennsylvania.
 
 ## Mission
 Temple University’s Institute for Public Policy (formely the Institute for Public Affairs) conducts, supports, and disseminates interdisciplinary research to inform and improve public policy, focusing particularly on Philadelphia, the greater metropolitan area, and the Commonwealth of Pennsylvania.
@@ -29,27 +30,27 @@ Temple University’s Institute for Public Policy (formely the Institute for Pub
 ___
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html 
-    title="The Pennsylvania Capital Semester" 
-    content="NEED CONTENT" 
-    image="" 
-    button-link="/institute-for-public-policy/the-pennsylvania-capital-semester/" 
+  <div class="col m12 l4">{% include cards/card2-image.html
+    title="The Pennsylvania Capital Semester"
+    content="NEED CONTENT"
+    image=""
+    button-link="/institute-for-public-policy/the-pennsylvania-capital-semester/"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html 
-      title="The Washington Semester" 
-      content="NEED CONTENT" 
-      image="" 
-      button-link="/institute-for-public-policy/the-washington-semester/" 
+    <div class="col m12 l4">{% include cards/card2-image.html
+      title="The Washington Semester"
+      content="NEED CONTENT"
+      image=""
+      button-link="/institute-for-public-policy/the-washington-semester/"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html 
-        title="Center on Regional Politics" 
-        content=" " 
-        image="" 
-        button-link="http://www.cla.temple.edu/corp/" 
+      <div class="col m12 l4">{% include cards/card2-image.html
+        title="Center on Regional Politics"
+        content=" "
+        image=""
+        button-link="http://www.cla.temple.edu/corp/"
         button-text="Learn More" %}
       </div>
 </div>
