@@ -1,5 +1,3 @@
-- text: Staff
-  url: /staff/
 - text: Centers and Projects
   url : /centers-and-projects/
 - text: Publications
@@ -12,3 +10,5 @@
   url: /Opportunities/
 - text: Program Alumni
   url: /program-alumni/
+- text: Staff
+  url: /staff/  
