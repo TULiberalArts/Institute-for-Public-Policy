@@ -12,27 +12,27 @@ promotion-table: true
 sidebar: false
 feature: true
 feature-title: >-
-  Institute for Public Policy
+  Institute for Public Affairs
 feature-image: media/PA-Capital-Semester-students-with-Gov-Wolf-Slide-Show.png
 feature-body: >-
 ---
 ![Philly Skyline]({{site.baseurl}}/media/philly_skyline120.jpeg){:.img-right}
-Temple University’s Institute for Public Policy conducts, supports, and disseminates interdisciplinary research to inform and improve public policy, focusing particularly on Philadelphia, the greater metropolitan area, and the Commonwealth of Pennsylvania.
+Temple University’s Institute for Public Affairs conducts, supports, and disseminates interdisciplinary research to inform and improve public policy, focusing particularly on Philadelphia, the greater metropolitan area, and the Commonwealth of Pennsylvania.
 
 ## Mission
-Temple University’s Institute for Public Policy (formely the Institute for Public Affairs) conducts, supports, and disseminates interdisciplinary research to inform and improve public policy, focusing particularly on Philadelphia, the greater metropolitan area, and the Commonwealth of Pennsylvania.
+Temple University’s Institute for Public Affairs conducts, supports, and disseminates interdisciplinary research to inform and improve public policy, focusing particularly on Philadelphia, the greater metropolitan area, and the Commonwealth of Pennsylvania.
 
 ## Objectives
-- IPP research targets important social, economic, and political problems, and public policies that address them.
-- IPP seeks to foster collaboration and intellectual exchange across disciplines, supporting scholars from all of Temple’s seventeen schools and colleges.
-- IPP aims to forge connections among students, scholars, policymakers, and citizens, to encourage research informed by the concerns of those who decide public policy and to facilitate public policies informed by research.
+- IPA research targets important social, economic, and political problems, and public policies that address them.
+- IPA seeks to foster collaboration and intellectual exchange across disciplines, supporting scholars from all of Temple’s seventeen schools and colleges.
+- IPA aims to forge connections among students, scholars, policymakers, and citizens, to encourage research informed by the concerns of those who decide public policy and to facilitate public policies informed by research.
 
 ___
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
     title="The Pennsylvania Capital Semester"
-    content="NEED CONTENT"
+    content="This program is open to students of any major and college at Temple University as well as students of other colleges or universities, and is modeled on a study abroad placement. Students will experience total immersion in state institutions and state politics in Harrisburg."
     image=""
     button-link="/institute-for-public-policy/the-pennsylvania-capital-semester/"
     button-text="Learn More" %}
@@ -40,7 +40,7 @@ ___
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html
       title="The Washington Semester"
-      content="NEED CONTENT"
+      content="The Washington Semester allows Temple students to gain valuable career experience in the nation’s capital, while remaining full-time students."
       image=""
       button-link="/institute-for-public-policy/the-washington-semester/"
       button-text="Learn More" %}
@@ -48,7 +48,7 @@ ___
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html
         title="Center on Regional Politics"
-        content=" "
+        content="The Center on Regional Politics provides neutral ground and intellectual resources to encourage and support interaction among leaders throughout Southeastern Pennsylvania."
         image=""
         button-link="http://www.cla.temple.edu/corp/"
         button-text="Learn More" %}
