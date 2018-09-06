@@ -10,5 +10,5 @@ keywords: 'affiliated centers, research, projects'
 # custom variables
 sidebar: false
 graduate_students: true
-graduate_students_content: profiles/graduate_students_2.html
+graduate_students_content: profiles/graduate_students2.html
 ---
