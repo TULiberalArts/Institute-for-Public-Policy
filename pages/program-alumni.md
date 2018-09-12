@@ -9,7 +9,6 @@ description: >-
 keywords: 'affiliated centers, research, projects'
 # custom variables
 sidebar: false
-graduate_students: true
-graduate_students_content: profiles/graduate_students2.html
+graduate_students: false
+graduate_students_content: 
 ---
-{% include {{ page.graduate_students_content }} %}
