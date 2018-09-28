@@ -8,5 +8,5 @@ title: Staff
 description: >-
 keywords: 'public affairs, staff'
 # custom variables
-sidebar: false
+
 ---

@@ -8,7 +8,7 @@ title: Publications
 description: >-
 keywords: 'public policy, research, publications'
 # custom variables
-sidebar: false
+
 ---
 ## Publications
 _**[Commonwealth: A Journal of Pennsylvania Politics and Policy archives](http://sites.temple.edu/commonwealth/) are hosted by the Institute for Public Policy**_.

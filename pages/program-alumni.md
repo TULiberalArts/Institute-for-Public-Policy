@@ -8,7 +8,7 @@ title: Program Alumni
 description: >-
 keywords: 'affiliated centers, research, projects'
 # custom variables
-sidebar: false
-graduate_students: false
-graduate_students_content: 
+
+
+graduate_students: 
 ---

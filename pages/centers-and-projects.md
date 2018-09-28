@@ -8,7 +8,7 @@ title: Centers and Projects
 description: >-
 keywords: 'affiliated centers, research, projects'
 # custom variables
-sidebar: false
+
 ---
 ![CORP]({{site.baseurl}}/media/CORP.jpeg){:.img-right}
 ## The Center on Regional Politics

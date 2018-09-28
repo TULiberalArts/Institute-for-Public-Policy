@@ -9,7 +9,7 @@ description: >
 keywords: ''
 # custom variables
 promotion-table: true
-sidebar: false
+
 feature: true
 feature-title: >-
   Institute for Public Affairs

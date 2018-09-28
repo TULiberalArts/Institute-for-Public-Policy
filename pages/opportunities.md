@@ -8,7 +8,7 @@ title: Opportunities
 description: >-
 keywords: ''
 # custom variables
-sidebar: false
+
 ---
 ## Internships
 - The Pennsylvania Capital Semester

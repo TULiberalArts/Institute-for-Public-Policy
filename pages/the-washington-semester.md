@@ -8,7 +8,7 @@ title: The Washington Semester
 description: >-
 keywords: 'washington semester, city hall, research, undergraduate, internship'
 # custom variables
-sidebar: false
+
 ---
 ![The Washington Semester]({{site.baseurl}}/media/resized Washington-Semester.jpg){:.img-right}
 ## The Washington Semester
