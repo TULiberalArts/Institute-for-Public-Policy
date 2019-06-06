@@ -13,19 +13,16 @@ promotion-table: true
 feature: true
 feature-title: >-
   Institute for Public Affairs
-feature-image: media/PA-Capital-Semester-students-with-Gov-Wolf-Slide-Show.png
+feature-image: media/jangenderhero.png
 feature-body: >-
 ---
-![Philly Skyline]({{site.baseurl}}/media/philly_skyline120.jpeg){:.img-right}
-Temple University’s Institute for Public Affairs conducts, supports, and disseminates interdisciplinary research to inform and improve public policy, focusing particularly on Philadelphia, the greater metropolitan area, and the Commonwealth of Pennsylvania.
+## Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eros in cursus turpis massa tincidunt dui ut. Vel turpis nunc eget lorem dolor sed viverra ipsum nunc. Arcu risus quis varius quam quisque. Odio aenean sed adipiscing diam donec adipiscing. Non consectetur a erat nam at lectus urna duis. Sit amet commodo nulla facilisi nullam vehicula ipsum. Velit ut tortor pretium viverra suspendisse potenti nullam ac. Integer vitae justo eget magna. Massa placerat duis 
 
-## Mission
-Temple University’s Institute for Public Affairs conducts, supports, and disseminates interdisciplinary research to inform and improve public policy, focusing particularly on Philadelphia, the greater metropolitan area, and the Commonwealth of Pennsylvania.
+## Lorem ipsum dolor sit amet
+Accumsan sit amet nulla facilisi morbi tempus. Tellus at urna condimentum mattis pellentesque id nibh. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Est ante in nibh mauris cursus mattis molestie a. Tellus id interdum velit laoreet id donec ultrices tincidunt. Eget mi proin sed libero enim sed faucibus turpis. Neque aliquam vestibulum morbi blandit. Amet aliquam id diam maecenas 
 
-## Objectives
-- IPA research targets important social, economic, and political problems, and public policies that address them.
-- IPA seeks to foster collaboration and intellectual exchange across disciplines, supporting scholars from all of Temple’s seventeen schools and colleges.
-- IPA aims to forge connections among students, scholars, policymakers, and citizens, to encourage research informed by the concerns of those who decide public policy and to facilitate public policies informed by research.
+Id aliquet risus feugiat in ante. Nec nam aliquam sem et tortor consequat id. Proin fermentum leo vel orci. Aliquet bibendum enim facilisis gravida neque convallis a. Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla. Turpis tincidunt id aliquet risus feugiat in ante. Eu non diam phasellus vestibulum lorem sed risus. Faucibus et molestie ac feugiat sed. Ultrices gravida dictum fusce ut placerat orci. Gravida arcu ac tortor dignissim. Vulputate sapien nec sagittis aliquam malesuada bibendum arcu. Morbi blandit cursus risus at ultrices mi tempus imperdiet nulla. Cursus risus at ultrices mi tempus imperdiet. Pellentesque id nibh tortor id.
 
 ___
 
