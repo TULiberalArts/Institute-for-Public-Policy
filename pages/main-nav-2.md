@@ -1,12 +1,12 @@
 ---
 # global predefined variables
 layout: tla_page
-permalink: /publications/
+permalink: /main-nav-2/
 published: true
 # meta-data variables
-title: Publications
+title: Main Nav 2
 description: >-
-keywords: 'public policy, research, publications'
+keywords: ''
 # custom variables
 
 ---
