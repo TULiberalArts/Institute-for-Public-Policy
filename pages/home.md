@@ -1,6 +1,6 @@
 ---
 # global predefined variables
-layout: tla_home
+layout: tla_home_test
 permalink: /
 published: true
 # meta-data variables
@@ -12,7 +12,6 @@ promotion-table: true
 
 feature: true
 feature-title: >-
-  Institute for Public Affairs
 feature-image: media/jangenderhero.png
 feature-body: >-
 ---
@@ -28,24 +27,24 @@ ___
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
-    title="The Pennsylvania Capital Semester"
-    content="This program is open to students of any major and college at Temple University as well as students of other colleges or universities, and is modeled on a study abroad placement. Students will experience total immersion in state institutions and state politics in Harrisburg."
+    title="CTA CONTENT"
+    content="FILL ME WITH EXCITING CTA CONTENT"
     image=""
     button-link="/institute-for-public-policy/the-pennsylvania-capital-semester/"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html
-      title="The Washington Semester"
-      content="The Washington Semester allows Temple students to gain valuable career experience in the nation’s capital, while remaining full-time students."
+      title="CTA CONTENT"
+      content="FILL ME WITH EXCITING CTA CONTENT"
       image=""
       button-link="/institute-for-public-policy/the-washington-semester/"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html
-        title="Center on Regional Politics"
-        content="The Center on Regional Politics provides neutral ground and intellectual resources to encourage and support interaction among leaders throughout Southeastern Pennsylvania."
+        title="CTA CONTENT"
+        content="FILL ME WITH EXCITING CTA CONTENT"
         image=""
         button-link="http://www.cla.temple.edu/corp/"
         button-text="Learn More" %}
