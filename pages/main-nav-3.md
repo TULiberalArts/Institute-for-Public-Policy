@@ -1,7 +1,7 @@
 ---
 # global predefined variables
 layout: tla_page
-permalink: /main-nav-3./
+permalink: /main-nav-3/
 published: true
 # meta-data variables
 title: Main Nav 3
