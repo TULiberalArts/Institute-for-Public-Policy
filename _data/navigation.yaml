@@ -2,11 +2,11 @@
   url : /main-nav-1/
 - text: Main Nav 2
   url: /main-nav-2/
-- text: The Pennsylvania Capital Semester
-  url : /the-pennsylvania-capital-semester/
-- text: The Washington Semester
-  url: /the-washington-semester/
-- text: Opportunities
-  url: /Opportunities/
+- text: Main Nav 3
+  url : /main-nav-3/
+- text: Main Nav 4
+  url: /main-nav-4/
+- text: Main Nav 5
+  url: /main-nav-5/
 - text: Staff
   url: /staff/  
